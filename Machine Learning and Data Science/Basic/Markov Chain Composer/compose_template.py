@@ -1,4 +1,7 @@
-"""empty compose template to implement :D"""
+"""
+Empty Compose Template to implement :D
+
+"""
 
 import os
 import re

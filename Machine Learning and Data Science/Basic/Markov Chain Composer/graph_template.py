@@ -1,4 +1,7 @@
-""" empty compose template to implement :D
+
+"""
+Empty Graph Template to implement :D
+ 
 """
 
 import random
@@ -21,4 +24,25 @@ class Vertex(object):
         pass
 
     def next_word(self):
+        pass
+
+
+
+class Graph(object):
+    def __init__(self):
+        pass
+
+    def get_vertex_values(self):
+        pass
+
+    def add_vertex(self, value):
+        pass
+
+    def get_vertex(self, value):
+        pass
+
+    def get_next_word(self, current_vertex):
+        pass
+
+    def generate_probability_mappings(self):
         pass
